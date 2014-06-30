@@ -1,0 +1,4 @@
+LIBRARY CppCode
+
+EXPORTS
+	fact @1
